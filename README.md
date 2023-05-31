@@ -27,6 +27,7 @@ https://www.chemie.uni-konstanz.de/ag-peter/members/group-members-1/current-memb
 * Git
 * HPC
 * Gromacs
+* Automated tests
 
 **Scientific knowledge**
 * Statistical mechanics
