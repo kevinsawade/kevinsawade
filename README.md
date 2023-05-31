@@ -31,6 +31,7 @@ https://www.chemie.uni-konstanz.de/ag-peter/members/group-members-1/current-memb
 **Scientific knowledge**
 * Statistical mechanics
 * Biopolymers
+* Bioinformatics
 * Molecular Dynamics
 * Docking
 
