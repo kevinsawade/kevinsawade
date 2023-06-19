@@ -4,7 +4,7 @@
 
 My name is **Kevin Sawade**. I am a theoretical chemist, currently in the final year of my PhD.
 
-I am happy to have been able to combine my passion in chemistry and data science during my education. I 
+I am happy to have been able to combine my passion in chemistry and data science during my education.
 
 # Education 🎓
 
