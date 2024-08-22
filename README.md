@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-My name is **Kevin Sawade**. I am a theoretical chemist, currently in the final year of my PhD.
+My name is **Kevin Sawade**. I am a theoretical/computational chemist.
 
 I am happy to have been able to combine my passion in chemistry and data science during my education.
 
@@ -15,9 +15,11 @@ I am happy to have been able to combine my passion in chemistry and data science
 
 **Publications**
 
-For my publications please refer to my Uni homepage:
+For publications refer to my [ORCID](https://orcid.org/0000-0002-7735-1488
 
-https://www.chemie.uni-konstanz.de/ag-peter/members/group-members-1/current-members/kevin-sawade/
+# Work experience 💻
+
+* July 2023 - : Scientific Programmer R&D @ BACHEM AG
 
 # Skills 💪 & Knowledge 📚
 
