@@ -15,11 +15,11 @@ I am happy to have been able to combine my passion in chemistry and data science
 
 **Publications**
 
-For publications refer to my [ORCID](https://orcid.org/0000-0002-7735-1488
+For publications refer to my [ORCID](https://orcid.org/0000-0002-7735-1488)
 
 # Work experience 💻
 
-* July 2023 - : Scientific Programmer R&D @ BACHEM AG
+* July 2023 - : Scientific Programmer R&D @ [BACHEM AG](https://bachem.com)
 
 # Skills 💪 & Knowledge 📚
 
